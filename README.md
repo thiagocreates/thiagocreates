@@ -7,4 +7,5 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
 pereira.coelho@escola.pr.gov.br
-![](https://tenor.com/pt-BR/view/mbappe-world-cup-gif-4748526186631236879)
+
+![](https://media1.tenor.com/m/QeYnaHDLjQ8AAAAC/mbappe-world-cup.gif)
